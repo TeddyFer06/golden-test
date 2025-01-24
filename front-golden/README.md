@@ -1,6 +1,8 @@
 # React + Vite
 
-Este es un proyecto basado en react para una prueba de Golden Companies, basado
+Este es un proyecto basado en react para una prueba de Golden Companies.
+Utiliza el manejo de hooks de react como useState y useEffect
+Estilos - Tailwind CSS
 
-1. Instalar dependecias - npm i
-2. Iniciar proyecto - npm run dev
+1. Instalar dependencias - npm i
+2. Inicializar proyecto - npm run dev
