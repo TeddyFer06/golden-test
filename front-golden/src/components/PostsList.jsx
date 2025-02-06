@@ -44,7 +44,7 @@ const PostsList = () => {
    return (
       <div className="space-y-8">
          <h1 className="text-3xl font-bold text-center uppercase my-4">
-            Listado de Publicaciones
+            Listado de Publicaciones Golden
          </h1>
 
          <div className="text-center mb-6">
